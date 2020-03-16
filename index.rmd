@@ -1,0 +1,80 @@
+---
+title: "Alyssa Huberts"
+output: 
+  html_document:
+    css: CSSBackgrounds.css
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(png)
+library(grid)
+library(jpeg)
+```
+**PhD Candidate in Government**<br>
+Harvard University 
+
+# {.tabset}
+
+***
+
+## About Me
+
+I am a PhD candidate in [Government](https://gov.harvard.edu/) at Harvard University. My research focuses on urban political economy in the developing world, with a focus on basic public services like **piped water**, **trash collection**, and **transit**. At Harvard, I have served as a teaching fellow for **US-Mexico Relations** and [**Gov 1005: Data**](https://www.davidkane.info/files/gov_1005_spring_2020.html).
+
+I take a mixed-methods approach in my research, drawing extensively on both qualitative fieldwork and administrative and social media data to meet the need for rich micro-level data within cities. 
+
+Before coming to Harvard, I was a political economy research assistant at the InterAmerican Development Bank.  My research questions are largely inspired by my time as a Fulbright Garcia Robles scholar in Mexico City, where I worked with Ashoka Social Entrepreneurs. I am especially excited about interdisciplinary work and collaborations with the policy community.  
+
+
+## Research 
+
+###Demand Management: Understanding Urban Inequality in Public Service Provision (dissertation project)
+
+Every day, the millions of Latin Americans who live in cities rely on public services like piped water, trash collection, and bus transport to navigate daily life. Yet the quality of these services is often poor, and almost always unequal. While we might expect that politicians or parties who fail to provide these services at decent quality will be voted out of office, politicians who provide low quality services regularly are reelected. The variation is puzzling– why are urban services well provided in some sectors, in some cities, and not others? What incentives do local politicians respond to?
+
+Traditional explanations have over-emphasized the role of voting. Instead, I explore how politicians’ everyday governance incentives – the imperative to keep the city running – shape the variation we observe in urban service outcomes. 
+
+###Citizen Responses to Negative Shocks Under Authoritarianism (with Jose Ramon Morales Arilla)
+
+What are the political and development effects of losing access to electricity services? We study the 2018 *apagones* (blackouts) in Venezuela to try and understand how citizens living under democratic backsliding respond to negative shocks. 
+
+###NESTSMX
+
+I also am a member of the interdisciplinary [NESTSMX](https://sites.lsa.umich.edu/mexican-exposures/research/) (Neighborhood Environments as Socio-Techno-bio Systems: Water Quality, Public Trust and Health in Mexico City) project. The project brings together experts from environmental engineering, anthropology, and environmental health to understand families' trust in water. The project has allowed me the opportunitiy to learn from families how they relate to the government for their public servies, as well as to learn from engineers about the complex systems that deliver water within urban areas. 
+
+## Teaching
+
+
+<div class = "row">
+  
+<div class = "col-md-6">
+
+### Teaching Fellow for Gov 1107: US-Mexico Relations
+
+**Fall 2019**
+
+**Professor:** Viridiana Rios 
+
+https://scholar.harvard.edu/vrios/classes/mexico-politics
+
+</div>
+
+<div class = "col-md-6">
+
+### Head Teaching Fellow for Gov 1005: Data
+
+**Spring 2020**
+
+**Professor:** David Kane 
+
+https://www.davidkane.info/files/gov_1005_spring_2020.html
+
+</div>
+</div>
+
+## Contact 
+I'm always happy to get in touch about potential research or policy collaborations! 
+<br><br>You can contact me via email at alyssa_huberts@g.harvard.edu or on Twitter ([alyssahuberts](https://twitter.com/AlyssaHuberts)). 
+
